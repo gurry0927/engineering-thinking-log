@@ -24,4 +24,5 @@
 > 手動轉自動的實踐紀錄。
 - [GAS Excel 自動化流程](file:///d:/git/engineering-thinking-log/learning/04-automation/gas-excel-automation.md)：維持排版與權限控管的實作。
 - [Sheets 實戰技巧](./04-automation/sheet-practical-tips.md)：合併儲存格與 `onFormSubmit` 異地紀錄。
+- [文檔與表單拼接策略](./04-automation/doc-sheet-merging-strategy.md)：解決自動化生成文件時的跑版問題。
 - [LineBot 模組化整合](file:///d:/git/engineering-thinking-log/learning/04-automation/line-bot-modularization.md)：如何將多個機器人整合至主入口。
