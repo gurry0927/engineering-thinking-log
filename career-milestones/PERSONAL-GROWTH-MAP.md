@@ -9,13 +9,16 @@ graph TD
     %% 核心出發點
     Start["數學背景 / 教學經驗"] --> Logic["邏輯推理力"]
     Start --> UX["非技術者視角 (UX)"]
+    Start --> KM["知識管理與白話溝通<br/>(教師優勢)"]
 
     %% 第一階段：自動化基石 (2025-09)
     Logic --> GAS["GAS 腳本開發<br/>(09/17)"]
     Logic --> PRD["PRD 需求定義<br/>(09/18)"]
     UX --> PRD
+    KM --> PRD
     GAS --> API["API 串接基礎<br/>(09/16)"]
     GAS --> Auth["權限控管<br/>(09/17)"]
+    KM --> Docs["技術文件與 SOP 化<br/>(10/03)"]
     
     %% 第二階段：系統架構
     API --> Arch["系統架構設計 (P-01)<br/>(09/19)"]
@@ -25,6 +28,7 @@ graph TD
     Arch --> P02["跨群組檔案搜集 (P-02)<br/>(10/01)"]
     API --> P02
     P02 --> ID_Tracking["多群組 ID 追蹤邏輯<br/>(10/01)"]
+    Docs --> Arch
 
     %% 第三階段：資料科學與 ML (目標)
     State --> Pipeline["Data Pipeline / ETL"]
@@ -38,6 +42,7 @@ graph TD
     style GAS fill:#bbf,stroke:#333
     style Arch fill:#bfb,stroke:#333
     style P02 fill:#bfb,stroke:#333
+    style KM fill:#f96,stroke:#333,stroke-width:2px
     style ML fill:#fbb,stroke:#333,stroke-dasharray: 5 5
 ```
 
@@ -48,6 +53,7 @@ graph TD
 | **自動化開發 (GAS)** | ⭐⭐⭐ | 成功實作 P-01 兩階段系統 | 2025-09-17 |
 | **產品定義 (PRD)** | ⭐⭐⭐ | 成功解析 09/24 複雜自動化需求 | 2025-09-24 |
 | **API 串接** | ⭐⭐⭐ | 解決 LineBot Webhook 檔名缺失限制 | 2025-10-01 |
+| **知識管理 (KM)** | ⭐⭐⭐ | **將教師背景轉換為團隊技術 SOP 力** | 2025-10-03 |
 | **架構設計** | ⭐⭐⭐ | 建立 P-02 跨群組檔案驗證機制 | 2025-10-01 |
 | **Gmail 自動化** | ⭐⭐ | 實現附件抓取與自動歸檔 | 2025-09-24 |
 | **機器學習 (ML)** | ⭐ | (目標) 維持 Kaggle 清洗資料手感 | - |
@@ -56,6 +62,7 @@ graph TD
 
 ### 1. 短期：自動化專家 (0-6 個月)
 - [x] 掌握多群組 ID 追蹤與精準推播。
+- [x] **建立第一份團隊內部的 API 串接知識庫/SOP**。
 - [ ] 在公司內部推薦使用 Odoo/ERPNext 等開源框架。
 
 ### 2. 中期：AI 落地工程師 (6-18 個月)
