@@ -13,6 +13,7 @@
 - `templates/`: 用於快速建立新紀錄的 MD 模板。
     - `decision-log-template.md`: **推薦使用**，基於「AI 友善原則」的決策日誌。
     - `mental-checkin-template.md`: 用於排解高壓環境下的焦慮。
+    - `two-week-review-template.md`: **高速成長期專用**，用於捕捉密集任務下的核心價值。
 - `GUIDE.md`: **必讀**，關於如何撰寫高品質、適合 AI 輔助的日誌原則。
 
 ## 如何使用
