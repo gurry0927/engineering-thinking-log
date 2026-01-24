@@ -8,6 +8,7 @@
 - `learning/`: [學習地圖 (MOC)](file:///d:/git/engineering-thinking-log/learning/README.md) - 按主題章節編排的技術與職場筆記。
 - `reflections/`: 軟實力、職涯思考及心態感悟。
 - `mental-health/`: 心理復健紀錄，追蹤壓力與情緒排毒。
+- `physical-health/`: 生理指標監測，如體檢紅字追蹤與複檢計畫。
 - `career-milestones/`: 職涯英雄之旅，紀錄重要里程碑與 [**個人成長地圖 (PERSONAL-GROWTH-MAP)**](file:///d:/git/engineering-thinking-log/career-milestones/PERSONAL-GROWTH-MAP.md)。
 - `projects/`: 專案作品集，以非機密形式記錄產出的系統。
 - `templates/`: 用於快速建立新紀錄的 MD 模板。
