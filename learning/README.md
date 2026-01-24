@@ -17,9 +17,11 @@
 > 系統設計、API 基礎與穩定性工程。
 - [API 101：萬能接口](./03-architecture/api-fundamentals.md)：JSON、Request/Response 與系統串接。
 - [Drive API v2 vs v3](./03-architecture/drive-api-v2-vs-v3.md)：關於 API 版本衝突的實戰教訓。
-- [狀態管理與日誌系統](./03-architecture/state-management-and-logging.md)：追蹤流程的魂魄。
+- [雲端部署基礎：GAS vs ngrok](./03-architecture/cloud-deployment-basics.md)：部署環境的權衡與 50 人規模負載評估。
+- [狀態管理與日誌系統](./03-architecture/state-management-and-logging.md)：追蹤流程的魂魄與推薦欄位。
 
 ## 📂 [04-自動化實戰](./04-automation/)
 > 手動轉自動的實踐紀錄。
 - [GAS Excel 自動化流程](file:///d:/git/engineering-thinking-log/learning/04-automation/gas-excel-automation.md)：維持排版與權限控管的實作。
+- [Sheets 實戰技巧](./04-automation/sheet-practical-tips.md)：合併儲存格與 `onFormSubmit` 異地紀錄。
 - [LineBot 模組化整合](file:///d:/git/engineering-thinking-log/learning/04-automation/line-bot-modularization.md)：如何將多個機器人整合至主入口。
