@@ -18,7 +18,10 @@
 ## 📂 [02-產品與業務邏輯](./02-product/)
 > 從工程師視角理解產品開發與企業運營。
 - [PRD 與 PM 的角色](file:///d:/git/engineering-thinking-log/learning/02-product/prd-pm-roles.md)：如何讀懂產品需求文件。
-- [ERP 整合概念](file:///d:/git/engineering-thinking-log/learning/02-product/erp-integration-concept.md)：從資料孤島到大一統的架構。
+- [產品經理 (PM) 與 需求規格 (PRD)](./02-product/prd-pm-roles.md)：軟體開發的靈魂，PM 不是行政。
+- [PRD：BIPV LCC 模型 (P-03)](./02-product/prd-bipv-lcc-model.md)：將財務與能源需求結構化。
+- [中型系統規劃：以 ERP 為例](./02-product/erp-integration-concept.md)：如何從孤島走向整合。
+到大一統的架構。
 - [企業郵件生存策略](./02-product/enterprise-email-strategies.md)：Workspace 管理員路由優於代碼開發的決策邏輯。
 
 ## 📂 [03-技術架構](./03-architecture/)
@@ -28,6 +31,7 @@
 - [輕量級資料庫方案：Sheets + GAS](./03-architecture/sheets-as-database.md)：低成本的初階資料庫選擇。
 - [雲端部署基礎：GAS vs ngrok](./03-architecture/cloud-deployment-basics.md)：部署環境的權衡與 50 人規模負載評估。
 - [doPost(e) 機制分析](./03-architecture/dopost-mechanics.md)：理解 Web App 的收貨通道與測試邏輯。
+- [財務建模基礎](./03-architecture/financial-modeling-basics.md)：LCC、NPV 與 EAC 的工程師視角筆記。
 - [LineBot 檔案處理與 ID 追蹤](./03-architecture/linebot-file-id-logic.md)：處理 Webhook 檔名缺失與 UserId/GroupId 控制。
 - [AI 框架整合與 LineBot](./03-architecture/ai-framework-integration.md)：如何在機器人後端串接 Semantic Kernel。
 - [AI 文件解析：語義大標提取](./03-architecture/ai-document-parsing.md)：OCR 與 LLM 在文件自動化歸檔中的應用。
