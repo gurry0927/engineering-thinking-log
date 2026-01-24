@@ -34,6 +34,7 @@
 - [輕量級資料庫方案：Sheets + GAS](./03-architecture/sheets-as-database.md)：低成本的初階資料庫選擇。
 - [雲端部署基礎：GAS vs ngrok](./03-architecture/cloud-deployment-basics.md)：部署環境的權衡與 50 人規模負載評估。
 - [doPost(e) 機制分析](./03-architecture/dopost-mechanics.md)：理解 Web App 的收貨通道與測試邏輯。
+- [架構思維 vs 語法細節](./03-architecture/architecture-vs-syntax.md)：AI 時代下的實力新定義與人機協作。
 - [財務建模基礎](./03-architecture/financial-modeling-basics.md)：LCC、NPV 與 EAC 的工程師視角筆記。
 - [LineBot 檔案處理與 ID 追蹤](./03-architecture/linebot-file-id-logic.md)：處理 Webhook 檔名缺失與 UserId/GroupId 控制。
 - [AI 框架整合與 LineBot](./03-architecture/ai-framework-integration.md)：如何在機器人後端串接 Semantic Kernel。
