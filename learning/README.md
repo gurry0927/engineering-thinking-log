@@ -7,6 +7,7 @@
 - [企業規範的四大天王](file:///d:/git/engineering-thinking-log/learning/01-workplace/corporate-culture-pillars.md)：資安、出勤、行政流程。
 - [新人名詞吸收法](file:///d:/git/engineering-thinking-log/learning/01-workplace/jargon-absorption-strategy.md)：如何利用潛意識消化大量資訊。
 - [三層次閱讀法](./01-workplace/tech-reading-strategy.md)：對抗技術文件的「催眠機制」與資訊超載。
+- [骨架表達法](./01-workplace/skeleton-communication-strategy.md)：為口語焦慮開發者設計的溝通策略。
 - [資安規章與插件使用](file:///d:/git/engineering-thinking-log/learning/01-workplace/security-guidelines-extensions.md)：權衡效率與安全的原則。
 
 ## 📂 [02-產品與業務邏輯](./02-product/)
