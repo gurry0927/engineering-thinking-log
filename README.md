@@ -9,6 +9,7 @@
 - `reflections/`: 軟實力、職涯思考及心態感悟。
 - `mental-health/`: 心理復健紀錄，追蹤壓力與情緒排毒。
 - `career-milestones/`: 職涯英雄之旅，紀錄重要里程碑。
+- `projects/`: 專案作品集，以非機密形式記錄產出的系統。
 - `templates/`: 用於快速建立新紀錄的 MD 模板。
     - `decision-log-template.md`: **推薦使用**，基於「AI 友善原則」的決策日誌。
     - `mental-checkin-template.md`: 用於排解高壓環境下的焦慮。

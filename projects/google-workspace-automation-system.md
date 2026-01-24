@@ -1,0 +1,40 @@
+# 雲端自動化檔案處理系統 (Google Workspace Automation)
+
+## 📌 專案簡介
+本專案是一個基於 Google 生態系 (Form/Sheet/GAS/Drive) 的自動化解決方案。使用者只需透過表單上傳 Excel 檔案，系統即可自動解析欄位、呼叫外部 API 補充資料，生成結構化報告並自動寄回給使用者。
+
+## 🎯 核心功能
+- **自動化檔案處理**：解析 Excel 欄位並提取關鍵資訊。
+- **外部 API 整合**：串接政府公開 API，自動檢索公司地址與統編。
+- **動態文件生成**：根據處理結果自動產生 Google Docs 報告。
+- **全自動交付**：結合 Gmail API，將完成件自動寄送至使用者信箱，達成「零手動」流程。
+- **狀態管理系統**：獨立的 Log 表單記錄每筆 Request 的時間、狀態與處理進度。
+
+## ⚙️ 技術架構
+- **Frontend**: Google Forms
+- **Backend / Logic**: Google Apps Script (GAS)
+- **Data Store**: Google Sheets
+- **File Storage**: Google Drive
+- **Communication**: Gmail API
+
+## 🧩 遇到的挑戰與解決方法
+
+### 1. API 版本相容性陷阱
+- **挑戰**：設定檔案權限時一直回報 `403 Forbidden`，即便是帳號權限正確。
+- **解決**：耗時 4 小時 Debug 後發現是 Drive API v2 與 v3 版本的機制差異。v2 在處理權限 (Permissions) 分配的語法與 v3 不相容。最終透過查閱官方 Changelog 並對齊版本成功解決。
+
+### 2. 資料來源異構整合
+- **挑戰**：政府 API 文檔艱澀，直接串接失敗。
+- **解決**：參考團隊舊有的 Python 實作邏輯，將其翻譯為 GAS 適用的 JavaScript 版本。這展現了跨語言理解並重新實作的能力。
+
+### 3. 使用者體驗優化 (UI/UX)
+- **挑戰**：原定使用 LINE Bot 推播結果，但收集 User ID 流程過於繁瑣。
+- **解決**：改用 Google 表單強制收集 Email 的方式，配合 Gmail API 直接寄送。這不僅確保了 100% 的到達率，也降低了使用者的操作門檻。
+
+## 🚀 成果價值
+- **效率提升**：取代人工轉檔與手動查詢 government data。
+- **穩定性**：由「狀態管理」機制監控，確保每筆資料都有檔案可查。
+- **低成本**：完全依賴 Google Workspace，無額外 Server 維修負擔。
+
+---
+> **備註**：為遵守保密協議，此專案僅描述邏輯架構與技術挑戰，不包含任何公司內部敏感數據或私有代碼。
