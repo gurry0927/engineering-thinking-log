@@ -5,7 +5,7 @@
 ## 目錄結構
 
 - `daily-log/`: 每日開發日誌與打卡。
-- `learning/`: 技術知識點整理與筆記。
+- `learning/`: [學習地圖 (MOC)](file:///d:/git/engineering-thinking-log/learning/README.md) - 按主題章節編排的技術與職場筆記。
 - `reflections/`: 軟實力、職涯思考及心態感悟。
 - `mental-health/`: 心理復健紀錄，追蹤壓力與情緒排毒。
 - `career-milestones/`: 職涯英雄之旅，紀錄重要里程碑。
