@@ -18,6 +18,7 @@
 > 系統設計、API 基礎與穩定性工程。
 - [API 101：萬能接口](./03-architecture/api-fundamentals.md)：JSON、Request/Response 與系統串接。
 - [Drive API v2 vs v3](./03-architecture/drive-api-v2-vs-v3.md)：關於 API 版本衝突的實戰教訓。
+- [輕量級資料庫方案：Sheets + GAS](./03-architecture/sheets-as-database.md)：低成本的初階資料庫選擇。
 - [雲端部署基礎：GAS vs ngrok](./03-architecture/cloud-deployment-basics.md)：部署環境的權衡與 50 人規模負載評估。
 - [AI 框架整合與 LineBot](./03-architecture/ai-framework-integration.md)：如何在機器人後端串接 Semantic Kernel。
 - [狀態管理與日誌系統](./03-architecture/state-management-and-logging.md)：追蹤流程的魂魄與推薦欄位。
