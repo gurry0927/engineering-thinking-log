@@ -9,6 +9,7 @@
 - [GitHub 協作基礎](./01-workplace/github-collaboration-basics.md)：如何邀請合作夥伴與權限管理初步認識。
 - [三層次閱讀法](./01-workplace/tech-reading-strategy.md)：對抗技術文件的「催眠機制」與資訊超載。
 - [骨架表達法](./01-workplace/skeleton-communication-strategy.md)：為口語焦慮開發者設計的溝通策略。
+- [UX 緩衝策略：應對延遲](./01-workplace/ux-buffering-strategies.md)：低成本後端 (GAS/Sheets) 的體感優化。
 - [職場高壓急救包](./01-workplace/stress-management-first-aid.md)：4-7-8 呼吸法與肌肉放鬆技巧。
 - [資安規章與插件使用](file:///d:/git/engineering-thinking-log/learning/01-workplace/security-guidelines-extensions.md)：權衡效率與安全的原則。
 
