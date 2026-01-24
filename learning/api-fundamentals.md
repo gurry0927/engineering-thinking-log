@@ -17,8 +17,13 @@ API (Application Programming Interface) 是系統之間溝通的「標準化接�
     *   `POST`：送資料給對方（如：回覆 LINE 訊息）。
 *   **Response (回應)**：對方回傳的結果，包含狀態碼（如 200 代表成功）。
 
-### 3. 工具橋樑：Google Apps Script (GAS)
-當前公司主要使用的工具。透過 `UrlFetchApp.fetch()`，GAS 就像一根連接線，把 Google 表單的資料推送到 LINE 的 API 接口。
+### 4. 為什麼「一行指令」能讀完一整張表？
+*   **JSON 結構**：API 回傳的是巢狀的 JSON。例如「把 A1:D10 給我」，它會打包成一個「陣列中的陣列」。
+*   **程式處理**：JS (GAS) 可以輕鬆用 `forEach` 掃描這些資料，自動拆裝到指定的變數或櫃子裡。
+
+### 5. API 的組合技 (Combo)
+獨立的 API 只是工具，串起來就是系統：
+- `Google Sheet API` (資料庫) + `LINE API` (介面) + `ChatGPT API` (人工智慧) = **智慧客服系統**。
 
 ## 學習心得
 為什麼大家一直問「有沒有 API」？因為有 API 就代表「這件事可以被自動化」，且不用重新發明輪子。對 API 的理解力，直接決定了解決辦公室效率問題的速度。
