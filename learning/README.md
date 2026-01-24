@@ -14,6 +14,7 @@
 - [UX 緩衝策略：應對延遲](./01-workplace/ux-buffering-strategies.md)：低成本後端 (GAS/Sheets) 的體感優化。
 - [職場高壓急救包](./01-workplace/stress-management-first-aid.md)：4-7-8 呼吸法與肌肉放遜技巧。
 - [解密職位績效](./01-workplace/understanding-performance.md)：理解管理語言、KPI 與價值轉換。
+- [文化轉型：從固定薪到績效制](./01-workplace/corporate-culture-transition.md)：適應不同的職業激勵模型。
 - [資安規章與插件使用](file:///d:/git/engineering-thinking-log/learning/01-workplace/security-guidelines-extensions.md)：權衡效率與安全的原則。
 
 ## 📂 [02-產品與業務邏輯](./02-product/)
