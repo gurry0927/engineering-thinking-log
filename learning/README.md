@@ -13,6 +13,7 @@
 > 從工程師視角理解產品開發與企業運營。
 - [PRD 與 PM 的角色](file:///d:/git/engineering-thinking-log/learning/02-product/prd-pm-roles.md)：如何讀懂產品需求文件。
 - [ERP 整合概念](file:///d:/git/engineering-thinking-log/learning/02-product/erp-integration-concept.md)：從資料孤島到大一統的架構。
+- [企業郵件生存策略](./02-product/enterprise-email-strategies.md)：Workspace 管理員路由優於代碼開發的決策邏輯。
 
 ## 📂 [03-技術架構](./03-architecture/)
 > 系統設計、API 基礎與穩定性工程。
@@ -21,6 +22,7 @@
 - [輕量級資料庫方案：Sheets + GAS](./03-architecture/sheets-as-database.md)：低成本的初階資料庫選擇。
 - [雲端部署基礎：GAS vs ngrok](./03-architecture/cloud-deployment-basics.md)：部署環境的權衡與 50 人規模負載評估。
 - [AI 框架整合與 LineBot](./03-architecture/ai-framework-integration.md)：如何在機器人後端串接 Semantic Kernel。
+- [AI 文件解析：語義大標提取](./03-architecture/ai-document-parsing.md)：OCR 與 LLM 在文件自動化歸檔中的應用。
 - [狀態管理與日誌系統](./03-architecture/state-management-and-logging.md)：追蹤流程的魂魄與推薦欄位。
 
 ## 📂 [04-自動化實戰](./04-automation/)
@@ -29,4 +31,5 @@
 - [Sheets 實戰技巧](./04-automation/sheet-practical-tips.md)：合併儲存格與 `onFormSubmit` 異地紀錄。
 - [文檔與表單拼接策略](./04-automation/doc-sheet-merging-strategy.md)：解決自動化生成文件時的跑版問題。
 - [GAS：模板替換與格式轉換](./04-automation/gas-file-conversion-and-mailing.md)：如何將雲端檔案轉為 PDF/XLSX 並作為郵件附件。
+- [Gmail 自動化與附件處理](./04-automation/gmail-automation-with-gas.md)：利用 `GmailApp` 達成附件自動歸檔。
 - [LineBot 模組化整合](file:///d:/git/engineering-thinking-log/learning/04-automation/line-bot-modularization.md)：如何將多個機器人整合至主入口。
