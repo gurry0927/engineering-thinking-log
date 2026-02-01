@@ -28,6 +28,27 @@
 | **14** | 2025-12-23 | **建立被動信任資產** | 架構師不需要當 KOL；「一個觀察 + 一個結論」是最高效益的輸出。 | [反思](file:///d:/git/engineering-thinking-log/reflections/02-Career/2025-12-23-Architecture-Branding-Strategy.md) |
 | **15** | 2025-12-30 | **超越算力教** | 認清算力能提升推理，但救不了「機率補洞」的本質；從魔法期待轉向結構限制。 | [反思](file:///d:/git/engineering-thinking-log/reflections/03-Architecture/2025-12-30-Compute-Myth-Vs-Architecture.md) |
 | **16** | 2025-12-28 | **時間與自我觀測者覺醒** | 發現預知自己說話的「元認知」狀態與「慢時間」流速感；確立「創作之道」為核心整合點。 | [反思](file:///d:/git/engineering-thinking-log/reflections/01-Mindset/2025-12-28-The-Path-Of-Creation.md) |
+| **17** | 2026-01-02 | **盾牌 PM 與專業邊界** | 第一次感受被 PM 「接住」；學會區分責任邊界，將出資人的理想風險還給決策者，專注於「技術安全」與「留證執行」。 | [日誌](file:///Users/gurry/Documents/git/engineering-thinking-log/daily-log/2026-01-02-The-Shield-PM-And-Professional-Boundaries.md) |
+| **18** | 2026-01-03 | **專業地基上的穩定** | 發現緊張源於「空洞」；透過實務經驗建立「大腦止震器」，從被評估者轉向觀察者。 | [日誌](file:///Users/gurry/Documents/git/engineering-thinking-log/daily-log/2026-01-03-Career-Benchmarking-Fair-Prep.md) |
+| **19** | 2026-01-06 | **工人智慧與結構停損** | 識別「工人智慧」與「逃避資料治理」的組織行為；確信系統地基不可讓步，拒絕用工程師的心理健康替管理層承擔債務。 | [日誌](file:///Users/gurry/Documents/git/engineering-thinking-log/daily-log/2026-01-06-The-Price-of-Structure-Avoidance.md) |
+| **20** | 2026-01-07 | **角色邊界與自我保護** | 覺醒於「角色模糊」帶來的內耗；學會將決策權推回管理層，建立「只對正式需求負責」的專業防禦體系。 | [日誌](file:///Users/gurry/Documents/git/engineering-thinking-log/daily-log/2026-01-07-Role-Boundary-Protection.md) |
+| **21** | 2026-01-08 | **AI 時代的門檻與身分位移** | 體認到「想到」比「做到」更難，AI 降低原型門檻但也加速崩壞風險；接受身分從老師向工程架構師的必然位移。 | [日誌](file:///Users/gurry/Documents/git/engineering-thinking-log/daily-log/2026-01-08-The-Price-of-AI-Speed.md) |
+| **22** | 2026-01-09 | **名詞與實踐的對齊** | 發現自己早已在實踐高階架構原則（MQ/冪等）；從「會說人話的老師」進化為「設計不需翻譯之系統」的架構師。 | [日誌](file:///Users/gurry/Documents/git/engineering-thinking-log/daily-log/2026-01-09-The-Power-Of-Internal-Words-And-System-Reliability.md) |
+| **23** | 2026-01-10 | **從執行者到結構橋樑** | 完成博覽會巡禮；確認自己具備「識別組織成熟度」的雷達，並接受「橋樑角色」（溝通需求與外包）作為人力有限時的高價值定位。 | [日誌](file:///Users/gurry/Documents/git/engineering-thinking-log/daily-log/2026-01-10-Career-Fair-Observations.md) |
+| **24** | 2026-01-10 | **環境上限與戰略停損** | 意識到「環境不再提供新興刺激」是天花板訊號；從旁觀者進化為對話者，確立「給公司三個月驗證期」的理性止損計畫。 | [日誌](file:///Users/gurry/Documents/git/engineering-thinking-log/daily-log/2026-01-10-Career-Fair-Observations.md) |
+| **25** | 2026-01-16 | **定義現實與規則架設** | 確認偏好從「模糊 0 到 1」轉向「架設世界、建立規則」；體認到資料清洗與關聯設計是定義系統靈魂的核心權力。 | [日誌](file:///Users/gurry/Documents/git/engineering-thinking-log/daily-log/2026-01-16-The-Architects-Shift.md) |
+| **26** | 2026-01-19 | **可審計與追蹤覺醒** | 發現「正確性」是假議題，「可解釋性」才是真邏輯；建立可溯源清單以降低大規模資料下的工程焦慮。 | [日誌](file:///Users/gurry/Documents/git/engineering-thinking-log/daily-log/2026-01-19-The-Auditability-Crisis.md) |
+| **27** | 2026-01-20 | **語意決策的外放與資料治理巔峰** | 接受「無唯一正解」的現實，將語意決策外放給平台功能；確立「溯源優先於正確」的核心信念，實現開發心流。 | [日誌](file:///Users/gurry/Documents/git/engineering-thinking-log/daily-log/2026-01-20-Relinquishing-Total-Knowledge.md) |
+| **27.1** | 2026-01-20 | **核心工程信念的結晶化** | 提煉出「受控約束、事實儲存、異步容錯、溯源優先」四項金律，標誌著從技術執行者向系統架構師的思維飛躍。 | [Profile](file:///Users/gurry/Documents/git/engineering-thinking-log/career-milestones/MASTER-PROFILE.md) |
+| **27.5** | 2026-01-22 | **系統思維的日常生活滲透** | 發現工程思維已內化為本能；能自動切換為設計者視角觀察世界，並透過結構化拆解與風險保底機制重新定義生活決策。 | [日誌](file:///Users/gurry/Documents/git/engineering-thinking-log/daily-log/2026-01-22-The-Thinking-Evolution.md) |
+| **27.6** | 2026-01-22 | **專業尊嚴與邊界強制執行** | 拒絕因「脾氣好」而被系統性剝削；透過退出尾牙任務確立「對等互利」與「身分尊重」的絕對邊界。 | [日誌](file:///Users/gurry/Documents/git/engineering-thinking-log/daily-log/2026-01-22-The-Integrity-Conflict.md) |
+| **28** | 2026-01-23 | **架構主導的 AI 授權** | 意會到 AI 開發的本質是「架構主導、細節委外」；從糾結 UI 語法轉向掌控資料層結構，實現對複雜系統（Odoo/Firebase）的降維打擊。 | [日誌](file:///Users/gurry/Documents/git/engineering-thinking-log/daily-log/2026-01-23-The-Architectural-Awakening.md) |
+| **29** | 2026-01-23 | **外部化認知的戰略意義** | 決定建立 `engineering-thinking-log` 倉庫；意識到「記錄思維」是將認知成長轉化為可遷移資產的關鍵，並為未來 AI 的「風格對位」鋪路。 | [日誌](file:///Users/gurry/Documents/git/engineering-thinking-log/daily-log/2026-01-23-The-Genesis-of-the-Log.md) |
+| **30** | 2026-01-25 | **精準責任邊界的確立** | 完成 2025 歸檔，確立「不兜底、標示風險、設計退路」的生存策略；將隱性責任歸還決策者，專注於系統可恢復性。 | [日誌](file:///Users/gurry/Documents/git/engineering-thinking-log/daily-log/2026-01-25-The-Great-Archival.md) |
+| **31** | 2026-01-25 | **數位分身的內容策略** | 發現紀錄中的「過程感」是讓 AI 產出人味的關鍵；開始探索「思維日誌 → Agent 轉譯 → 個人品牌」的複利路徑。 | [日誌](file:///Users/gurry/Documents/git/engineering-thinking-log/daily-log/2026-01-25-The-Great-Archival.md) |
+| **32** | 2026-01-23 | **內外解耦的生存協定** | 確立「內核守護、介面應付」的兩套標準；意識到專業者的敏感需搭配「護具系統」，以結構化策略對抗環境消耗。 | [日誌](file:///Users/gurry/Documents/git/engineering-thinking-log/daily-log/2026-01-23-The-Physical-Toll-And-Two-Layer-Strategy.md) |
+| **33** | 2026-01-27 | **組織權力結構的覺察** | 看穿「溝通價值觀」背後的權力鬥爭；認同「策略性衝突」是校正地位、避免成為組織最低成本的手段。 | [日誌](file:///Users/gurry/Documents/git/engineering-thinking-log/daily-log/2026-01-27-The-Power-Play-And-The-Buffer-Layer.md) |
+| **34** | 2026-01-31 | **緩衝層風險與個人防火牆** | 預判「人力緩衝層（經理）」失效風險；開始設計「延遲回應、非同步通信」的個人工作流以對抗碎片化轟炸。 | [日誌](file:///Users/gurry/Documents/git/engineering-thinking-log/daily-log/2026-01-31-The-Risk-Of-Buffer-Failure.md) |
 
 ---
 
