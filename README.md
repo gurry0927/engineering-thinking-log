@@ -1,25 +1,35 @@
-# Engineering Thinking Log
+# 數位分身：工程開發與架構思考日誌 (Engineering Thinking Log: Digital Twin)
 
-這是一個記錄我轉職工程師後的成長軌跡、技術學習與心態變化的日誌。
+這不只是一份日誌，它是我的「思維外掛硬碟」。記錄了我從非技術背景，演化為具備系統架構與 AI 落地能力的工程師的完整軌跡。
 
-## 目錄結構
+## 🚀 核心入口 (Dashboard)
 
-- `daily-log/`: 每日開發日誌與打卡。
-- `learning/`: [學習地圖 (MOC)](file:///d:/git/engineering-thinking-log/learning/README.md) - 按主題章節編排的技術與職場筆記。
-- `reflections/`: 軟實力、職涯思考及心態感悟。
-- `mental-health/`: 心理復健紀錄，追蹤壓力與情緒排毒。
-- `physical-health/`: 生理指標監測，如體檢紅字追蹤與複檢計畫。
-- `career-milestones/`: 職涯英雄之旅，紀錄重要里程碑與 [**個人成長地圖 (PERSONAL-GROWTH-MAP)**](file:///d:/git/engineering-thinking-log/career-milestones/PERSONAL-GROWTH-MAP.md)。
-- `projects/`: 專案作品集，以非機密形式記錄產出的系統。
-- `templates/`: 用於快速建立新紀錄的 MD 模板。
-    - `decision-log-template.md`: **推薦使用**，基於「AI 友善原則」的決策日誌。
-    - `mental-checkin-template.md`: 用於排解高壓環境下的焦慮。
-    - `two-week-review-template.md`: **高速成長期專用**，用於捕捉密集任務下的核心價值。
-- `GUIDE.md`: **必讀**，關於如何撰寫高品質、適合 AI 輔助的日誌原則。
+- **[最強專業總覽 (Master Profile)](./career-milestones/MASTER-PROFILE.md)**：2025 年技術與職涯的巔峰總結。
+- **[大腦更新里程碑 (Mindset Evolution)](./career-milestones/2025-12-23-Mindset-Evolution.md)**：紀錄思維作業系統的六次重大升級。
+- **[AI 協作手冊 (Handover Guide)](./HANDOVER.md)**：**新對話必讀**，如何快速讓 AI 同步目前的邏輯與進度。
+- **[學習地圖 (Learning Map)](./learning/README.md)**：按領域分類的技術與職場知識庫。
 
-## 如何使用
+---
 
-1. **閱讀 [GUIDE.md](file:///d:/git/engineering-thinking-log/GUIDE.md)** 了解撰寫原則。
-2. 從 `templates/` 複製合適的模板（如 `decision-log-template.md`）。
-3. 在對應的資料夾中建立新的 `.md` 檔案。
-4. 紀錄完成後，執行 `git add .`, `git commit -m "feat: add new log"`, `git push`。
+## 📂 目錄導覽
+
+### 🏗️ 系統與成長 (Core)
+- **`career-milestones/`**：[個人成長地圖](./career-milestones/2025-12-17-Personal-Growth-Map.md) 與職涯戰略。
+- **`reflections/`**：分為 `Mindset` (心態)、`Career` (職涯)、`Architecture` (技術哲學) 三大支柱。
+- **`projects/`**：專案作品集，紀錄系統從無到有的拓荒過程。
+
+### 🗓️ 紀錄與健康 (Logs & Health)
+- **`daily-log/`**：每日事實紀錄。只存「發生了什麼」，不存廢話。
+- **`mental-health/`**：心理韌性與排毒紀錄，確保「軟體」不崩潰。
+- **`physical-health/`**：生理指標監測，確保「硬體」能續航。
+
+### 🛠️ 工具與導引 (Toolbox)
+- **`templates/`**：各式決策、心態、週報模板。
+- **`GUIDE.md`**：**必讀**，如何撰寫能讓 AI 讀懂並輔助的回饋日誌。
+
+---
+
+## 🧠 使用原則
+1. **事實與推論分離**：資料庫存事實 (Logs)，大腦存推論 (Reflections)。
+2. **Title-Case 標號**：檔案採用 `YYYY-MM-DD-Subject.md` 以確保排序與可讀性。
+3. **AI 協作**：每一篇日誌都是為了讓未來的 AI 能更精準地模擬並輔助我的決策。
